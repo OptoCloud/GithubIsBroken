@@ -1,5 +1,5 @@
-# GitIsBroken
-Showcase of bad things in git
+# GithubIsBroken
+Showcase of bad things in github
 
 This is a commit done by Linus Torvalds
 
